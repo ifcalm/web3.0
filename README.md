@@ -13,3 +13,8 @@
 ## 学习文档
 - [Web3开发者学习路线指南](https://juejin.cn/post/7114306640760799263)
 - [如何进入 Web3 开发](https://zhuanlan.zhihu.com/p/456657873)
+
+## web3 的应用
+
+- [Web3.0的应用有哪些](https://worktile.com/kb/ask/18146.html)
+- [目前有哪些已经上线的 Web3.0 实际应用呢](https://www.zhihu.com/question/399036343)
