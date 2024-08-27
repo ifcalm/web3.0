@@ -30,3 +30,8 @@ Sui CLI的keytool命令提供了多个命令级别的访问，用于管理和生
 ### 连接到sui网络
 Sui 提供 Mainnet、Devnet 和 Testnet 网络。你可以使用其中一个测试网络，Devnet 或 Testnet，来尝试在该网络上运行的 Sui 版本。你还可以启动一个本地 Sui 网络进行本地开发。
 
+
+更新sui版本: `cargo install --locked --git https://github.com/MystenLabs/sui.git --branch devnet sui`
+
+国内github下载慢问题，可以通过 ping github.com, 然后在 /etc/hosts 配置ip 域名进行加速。
+
