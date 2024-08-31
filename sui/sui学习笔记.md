@@ -115,3 +115,9 @@ module my_first_package::my_module {
 
 第四部分：访问器函数 - 这些函数允许从其他模块读取模块结构的字段。
 
+---------
+
+在项目根目录下执行:
+构建包: `sui move build`
+发布包: `sui client publish`
+
