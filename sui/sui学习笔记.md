@@ -3,6 +3,13 @@
 sui中文文档: https://docs-zh.sui-book.com/guides/developer/getting-started/sui-install/
 
 
+Sui 仓库包括四个主要分支：devnet、testnet、mainnet 和 main。
+
+- devnet 分支包含 Sui 的最新稳定版本。如果你希望在 Sui Devnet 上构建或测试，请选择 devnet 分支。如果遇到问题或发现错误，可能已在 main 分支中修复。要提交 PR，请将提交推送到你的 main 分支的分支。
+- testnet 分支包含运行在 Sui Testnet 网络上的代码。
+- mainnet 分支包含运行在 Sui Mainnet 网络上的代码。
+- main 分支包含最近的更改和更新。如果你想要为 Sui 项目做贡献或尝试实验性功能，请使用 main 分支。main 分支可能包含未发布的更改和实验性功能，因此请谨慎使用。
+
 ### sui cli 基础用法
 - 验证您的系统是否已安装 CLI: `sui --version`
 - 升级sui: `cargo install --locked --git https://github.com/MystenLabs/sui.git --branch devnet sui`
